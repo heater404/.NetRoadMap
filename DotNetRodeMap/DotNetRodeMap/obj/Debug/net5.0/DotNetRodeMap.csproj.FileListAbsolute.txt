@@ -1,0 +1,16 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\DotNetRodeMap.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\DotNetRodeMap.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\DotNetRodeMap.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\DotNetRodeMap.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\DotNetRodeMap.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\ref\DotNetRodeMap.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\bin\Debug\net5.0\DotNetRodeMap.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.GeneratedMSBuildEditorConfig.editorconfig
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\ref\DotNetRodeMap.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\DotNetRodeMap\obj\Debug\net5.0\DotNetRodeMap.genruntimeconfig.cache
