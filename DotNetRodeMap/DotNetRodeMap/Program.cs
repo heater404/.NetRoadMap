@@ -7,10 +7,10 @@ namespace DotNetRodeMap
     {
         static void Main(string[] args)
         {
-            var matches = Regex.Match("wfwf\u000713r321", @"\a");
-            foreach (var group in matches.Groups)
+            var matches = Regex.Matches("adwq I ae awr rohs awd", @"\ba\S*");
+            foreach (var match in matches)
             {
-                Console.WriteLine(group.ToString());
+                Console.WriteLine(match.ToString());
             }
         }
     }
