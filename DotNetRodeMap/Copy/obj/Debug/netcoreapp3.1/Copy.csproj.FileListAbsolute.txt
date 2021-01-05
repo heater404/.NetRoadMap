@@ -1,0 +1,13 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\bin\Debug\netcoreapp3.1\Copy.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\bin\Debug\netcoreapp3.1\Copy.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\bin\Debug\netcoreapp3.1\Copy.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\bin\Debug\netcoreapp3.1\Copy.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\bin\Debug\netcoreapp3.1\Copy.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\bin\Debug\netcoreapp3.1\Copy.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Copy\obj\Debug\netcoreapp3.1\Copy.genruntimeconfig.cache

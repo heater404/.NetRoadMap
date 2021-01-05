@@ -1,0 +1,13 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\bin\Debug\netcoreapp3.1\JSON.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\bin\Debug\netcoreapp3.1\JSON.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\bin\Debug\netcoreapp3.1\JSON.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\bin\Debug\netcoreapp3.1\JSON.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\bin\Debug\netcoreapp3.1\JSON.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\JSON\obj\Debug\netcoreapp3.1\JSON.genruntimeconfig.cache

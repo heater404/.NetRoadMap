@@ -1,0 +1,13 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\netcoreapp3.1\Dynamic.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\netcoreapp3.1\Dynamic.genruntimeconfig.cache

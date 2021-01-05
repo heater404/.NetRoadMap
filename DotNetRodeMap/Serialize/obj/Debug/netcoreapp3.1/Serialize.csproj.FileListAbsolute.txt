@@ -1,0 +1,16 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\Serialize.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\Serialize.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\Serialize.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\Serialize.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\Serialize.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\Serialize.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.genruntimeconfig.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\protobuf-net.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\netcoreapp3.1\protobuf-net.Core.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\netcoreapp3.1\Serialize.csproj.CopyComplete

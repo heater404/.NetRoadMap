@@ -1,0 +1,16 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\Dynamic.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\Dynamic.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\Dynamic.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\Dynamic.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\Dynamic.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\ref\Dynamic.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\bin\Debug\net5.0\Dynamic.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.GeneratedMSBuildEditorConfig.editorconfig
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\ref\Dynamic.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Dynamic\obj\Debug\net5.0\Dynamic.genruntimeconfig.cache

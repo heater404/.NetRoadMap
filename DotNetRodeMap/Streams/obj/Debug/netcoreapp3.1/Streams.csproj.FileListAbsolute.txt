@@ -1,0 +1,13 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\bin\Debug\netcoreapp3.1\Streams.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\bin\Debug\netcoreapp3.1\Streams.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\bin\Debug\netcoreapp3.1\Streams.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\bin\Debug\netcoreapp3.1\Streams.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\bin\Debug\netcoreapp3.1\Streams.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Streams\obj\Debug\netcoreapp3.1\Streams.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\Serialize.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\Serialize.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\Serialize.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\Serialize.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\Serialize.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\ref\Serialize.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\bin\Debug\net5.0\Serialize.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.GeneratedMSBuildEditorConfig.editorconfig
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\ref\Serialize.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\Serialize\obj\Debug\net5.0\Serialize.genruntimeconfig.cache

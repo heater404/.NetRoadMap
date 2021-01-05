@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "y22QvUluG4KRZ2KUi2jeF9Tr+VOpxtL1V86tzHuyflX/RIzS9DJ0T5wFioz6D/Pr8d1j9J7V/Fit5RHLSpgm8Q==",
+  "success": true,
+  "projectFilePath": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\protobuf-net\\3.0.73\\protobuf-net.3.0.73.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\protobuf-net.core\\3.0.73\\protobuf-net.core.3.0.73.nupkg.sha512"
+  ],
+  "logs": []
+}
