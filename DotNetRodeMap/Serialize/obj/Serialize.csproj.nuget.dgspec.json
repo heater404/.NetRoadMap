@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj": {}
+    "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj": {}
   },
   "projects": {
-    "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj": {
+    "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj",
+        "projectUniqueName": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj",
         "projectName": "Serialize",
-        "projectPath": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Serialize\\obj\\",
+        "projectPath": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Serialize\\Serialize.csproj",
+        "packagesPath": "C:\\Users\\ZDK\\.nuget\\packages\\",
+        "outputPath": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Serialize\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ZDK\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,7 +37,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "protobuf-net": {
               "target": "Package",
@@ -55,12 +53,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

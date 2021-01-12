@@ -1,0 +1,13 @@
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\bin\Debug\netcoreapp3.1\HTTP.exe
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\bin\Debug\netcoreapp3.1\HTTP.deps.json
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.json
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\bin\Debug\netcoreapp3.1\HTTP.runtimeconfig.dev.json
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\bin\Debug\netcoreapp3.1\HTTP.dll
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\bin\Debug\netcoreapp3.1\HTTP.pdb
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.csprojAssemblyReference.cache
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfoInputs.cache
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.AssemblyInfo.cs
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.csproj.CoreCompileInputs.cache
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.dll
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.pdb
+D:\03Projects\.NetRoadMap\DotNetRodeMap\HTTP\obj\Debug\netcoreapp3.1\HTTP.genruntimeconfig.cache
