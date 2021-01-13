@@ -1,24 +1,28 @@
 ﻿using System;
+using System.Net;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Threading.Tasks;
 
 namespace HTTP
 {
     class Program
     {
+        static readonly HttpClient client = new HttpClient();
         static void Main(string[] args)
         {
-            HttpClient client = new HttpClient();
+            string uri = @"http://www.bing.com";
 
-            Task<HttpResponseMessage> respose = client.GetAsync(@"https://www.bilibili.com/?spm_id_from=333.5.b_7072696d61727950616765546162.1");
+            var respose = client.GetAsync(uri);
 
-            respose.Wait();
+            HttpStatusCode statusCode = respose.Result.StatusCode;
+            Console.WriteLine(statusCode.ToString());
 
-            if (respose.IsCompletedSuccessfully)
-            {
-                Console.WriteLine(respose.Result.Content.Headers);
-            }
+            HttpResponseHeaders header = respose.Result.Headers;
 
+            HttpContent content = respose.Result.Content;
+            var ct = content.ReadAsStringAsync();
+            Console.WriteLine(ct.Result);
         }
     }
 }
