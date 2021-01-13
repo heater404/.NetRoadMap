@@ -1,0 +1,9 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\bin\Debug\netcoreapp3.1\CalculateLib.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\bin\Debug\netcoreapp3.1\CalculateLib.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\bin\Debug\netcoreapp3.1\CalculateLib.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\obj\Debug\netcoreapp3.1\CalculateLib.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\obj\Debug\netcoreapp3.1\CalculateLib.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\obj\Debug\netcoreapp3.1\CalculateLib.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\obj\Debug\netcoreapp3.1\CalculateLib.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\obj\Debug\netcoreapp3.1\CalculateLib.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CalculateLib\obj\Debug\netcoreapp3.1\CalculateLib.pdb

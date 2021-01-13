@@ -1,0 +1,13 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.AssemblyInfoInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.AssemblyInfo.cs
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\bin\Debug\netcoreapp3.1\TASK.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\bin\Debug\netcoreapp3.1\TASK.deps.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\bin\Debug\netcoreapp3.1\TASK.runtimeconfig.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\bin\Debug\netcoreapp3.1\TASK.runtimeconfig.dev.json
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\bin\Debug\netcoreapp3.1\TASK.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\bin\Debug\netcoreapp3.1\TASK.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\TASK\obj\Debug\netcoreapp3.1\TASK.genruntimeconfig.cache

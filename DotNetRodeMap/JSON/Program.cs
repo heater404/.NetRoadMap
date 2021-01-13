@@ -10,25 +10,26 @@ namespace JSON
     {
         static void Main(string[] args)
         {
-            Foo foo = new Foo
-            {
-                Member1 = 0x11,
-                Member2 = 0x22,
-                Member3 = 0x33,
-                Member4 = true,
-                Member5 = new UInt32[] { 0x44, 0x55, 0x66 },
-                Member6=TestEnum.EnumB,
-            };
+            //Foo foo = new Foo
+            //{
+            //    Member1 = 0x11,
+            //    Member2 = 0x22,
+            //    Member3 = 0x33,
+            //    Member4 = true,
+            //    Member5 = new UInt32[] { 0x44, 0x55, 0x66 },
+            //    Member6=TestEnum.EnumB,
+            //};
             JsonSerializerOptions options = new JsonSerializerOptions
             {
                 WriteIndented = true,
+                ReadCommentHandling=JsonCommentHandling.Skip,
                 //Converters = { new JsonDecimalHexConverter()},
             };
 
-            string json = System.Text.Json.JsonSerializer.Serialize<Foo>(foo, options);
+            //string json = System.Text.Json.JsonSerializer.Serialize<Foo>(foo, options);
 
-            Console.WriteLine(json);
-            File.WriteAllText(@"test.json", json);
+            //Console.WriteLine(json);
+            //File.WriteAllText(@"test.json", json);
 
             string j = File.ReadAllText(@"test.json");
             Foo f = JsonSerializer.Deserialize<Foo>(j,options);
@@ -58,6 +59,7 @@ namespace JSON
 
         [JsonIgnore]
         public UInt32 Member3 { get; set; }
+
 
         public bool Member4 { get; set; }
 

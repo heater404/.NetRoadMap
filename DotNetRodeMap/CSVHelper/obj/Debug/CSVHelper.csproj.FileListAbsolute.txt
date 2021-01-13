@@ -1,0 +1,12 @@
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\CSVHelper.exe.config
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\CSVHelper.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\CSVHelper.pdb
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\CsvHelper.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\System.ValueTuple.dll
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\CsvHelper.xml
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\bin\Debug\System.ValueTuple.xml
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\obj\Debug\CSVHelper.csprojAssemblyReference.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\obj\Debug\CSVHelper.csproj.CoreCompileInputs.cache
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\obj\Debug\CSVHelper.csproj.CopyComplete
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\obj\Debug\CSVHelper.exe
+D:\02Personal\Project\.NetRoadMap\DotNetRodeMap\CSVHelper\obj\Debug\CSVHelper.pdb
