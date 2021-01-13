@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GS5EKdK/OXadq4v4XtToFmC20n97y37EWBqZDhJJ3eYEzs9oG9MDtBhGB1heNoyjsg1YAd//8z9NFMjJcoTdrg==",
+  "dgSpecHash": "B4e9l3Bj7ac11ruSnINGGoe6mKdqFoaSal9FB4Gy+juJtAFCMwzo3Iqe/6c55kgCIPXuOqyNQJPRzUU7VOrweQ==",
   "success": true,
-  "projectFilePath": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Copy\\Copy.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ZDK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Copy\\Copy.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

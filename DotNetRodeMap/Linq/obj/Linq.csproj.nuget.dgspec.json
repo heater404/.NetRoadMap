@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj": {}
+    "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj": {}
   },
   "projects": {
-    "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj": {
+    "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj",
+        "projectUniqueName": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj",
         "projectName": "Linq",
-        "projectPath": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj",
-        "packagesPath": "C:\\Users\\ZDK\\.nuget\\packages\\",
-        "outputPath": "D:\\03Projects\\.NetRoadMap\\DotNetRodeMap\\Linq\\obj\\",
+        "projectPath": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Linq\\Linq.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "D:\\02Personal\\Project\\.NetRoadMap\\DotNetRodeMap\\Linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZDK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,8 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net50": {
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -36,13 +37,24 @@
         }
       },
       "frameworks": {
-        "net50": {
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win7-x86": {
-          "#import": []
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
